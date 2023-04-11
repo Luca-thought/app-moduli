@@ -1,0 +1,14 @@
+{
+  "name": "workflow-box",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^15.2.0",
+    "@angular/core": "^15.2.0",
+    "bootstrap": "^4.3.1",
+    "ng2-dragula": "^2.1.1"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
