@@ -1,15 +1,15 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'lib-workflowBox',
+  selector: 'lib-pageNotFound',
   template: `
     <p>
-      workflow-box works!
+      page-not-found works!
     </p>
   `,
   styles: [
   ]
 })
-export class WorkflowBoxComponent {
+export class PageNotFoundComponent {
 
 }

@@ -3,5 +3,5 @@
  */
 
 //export * from './lib/workflow-box.service';
-export * from './lib/workflow-box.component';
-export * from './lib/workflow-box.module';
+export * from './lib/input-box.component';
+export * from './lib/input-box.module';

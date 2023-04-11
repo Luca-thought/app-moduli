@@ -24,6 +24,12 @@
       "dom"
     ],
     "paths": {
+      "homeAngular": [
+        "dist/home-angular"
+      ],
+      "pageNotFound": [
+        "dist/page-not-found"
+      ],
       "workflowBox": [
         "dist/workflow-box"
       ]
